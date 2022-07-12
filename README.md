@@ -1,4 +1,4 @@
-# To-Do List App
+# To-Do List 
 
 This is a to-do list app with the following features:
 
@@ -6,4 +6,4 @@ This is a to-do list app with the following features:
 * Delete tasks
 * Mark tasks as completed
 
-### Used Bootstrap for styling
+Used Bootstrap for styling
