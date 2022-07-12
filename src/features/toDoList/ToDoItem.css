@@ -1,0 +1,20 @@
+.checkbox{
+    height: 25px;
+    min-width: 25px;
+    background-color: #eee;
+    margin-right: 15px;
+}
+
+.trash-color{
+    color: red;
+}
+
+.trash{
+    cursor: pointer;
+    margin-left: 15px;
+}
+
+.to__do__item{
+    word-break: break-all;
+}
+

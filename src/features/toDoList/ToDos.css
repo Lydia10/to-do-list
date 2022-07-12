@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(243, 240, 240);
+}
+
+h1{
+    color:rgb(3, 65, 16)
+}
+
+.add__button{
+    padding: 15px 35px;
+    background-color: green;
+    font-size: 20px;
+    border: none; 
+}
+
+.input{
+    padding: 14px;
+    font-size: 20px;  
+    border: 1px solid gray;
+    width: 75%;
+}
+
+@media only screen and (max-width:450px) {
+    .add__button{
+        padding: 15px 20px;
+    }
+}
+@media only screen and (max-width:300px) {
+    .add__button{
+        padding: 15px 15px;
+    }
+}
+
+
+
